@@ -1,6 +1,6 @@
 # Laboratorio 2 — Scraping, procesamiento y buscador TF-IDF
 
-**Integrantes:** _(completar)_
+**Integrantes:** Fernando Figueroa, German Oses , Joshua Villavicencio
 **Repositorio:** https://github.com/inddigo/laboratorio2
 
 Fuente: https://books.toscrape.com/ (solo la primera página, sin paginación).
